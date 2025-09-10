@@ -1,0 +1,8 @@
+title: Webkanini Technologies Private Limited
+description: "Consulting and solutions based on free & open source technologies"
+baseurl: ""            # leave empty for a user/org site
+url: "https://webkanini.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
