@@ -94,3 +94,30 @@ footer a:hover { text-decoration: underline; }
   50% {background-position: 100% 50%;}
   100% {background-position: 0% 50%;}
 }
+
+/* Services Grid */
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 25px;
+}
+.service-box {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+.service-box h3 {
+  color: #0d47a1;
+  margin-bottom: 10px;
+}
+.service-box p {
+  font-size: 0.95rem;
+  color: #555;
+}
+.service-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px rgba(0,0,0,0.2);
+}
