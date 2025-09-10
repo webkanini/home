@@ -1,7 +1,7 @@
-title: Webkanini Technologies
+title: Webkanini Technologies Pvt Ltd
 description: "Consulting and solutions based on free & open source technologies and ERP systems."
 baseurl: ""       # keep empty for user/org site
-url: "https://webkanini.github.io"
+url: "https://www.webkanini.com"
 theme: minima
 plugins:
   - jekyll-seo-tag

@@ -13,13 +13,14 @@ title: Home
   <div class="logos-container">
     <!-- Replace with local files under assets/img/ (recommended) or keep external links -->
     <div class="logos"><img src="{{ '/assets/img/odoo.png' | relative_url }}" alt="Odoo ERP"></div>
-    <div class="logos"><img src="{{ '/assets/img/dolibarr.png' | relative_url }}" alt="Dolibarr ERP"></div>
-    <div class="logos"><img src="{{ '/assets/img/wordpress.svg' | relative_url }}" alt="WordPress"></div>
-    <div class="logos"><img src="{{ '/assets/img/moodle.svg' | relative_url }}" alt="Moodle"></div>
-    <div class="logos"><img src="{{ '/assets/img/linux.png' | relative_url }}" alt="Linux"></div>
-    <div class="logos"><img src="{{ '/assets/img/python.svg' | relative_url }}" alt="Python"></div>
-    <div class="logos"><img src="{{ '/assets/img/figma.svg' | relative_url }}" alt="Figma"></div>
-    <div class="logos"><img src="{{ '/assets/img/react.svg' | relative_url }}" alt="React"></div>
+    <div class="logos"><img src="{{ '/assets/img/erpnext.png' | relative_url }}" alt="ERPNext"></div>
+    <div class="logos"><img src="{{ '/assets/img/wordpress.jpeg' | relative_url }}" alt="WordPress"></div>
+    <div class="logos"><img src="{{ '/assets/img/postgresql.webp' | relative_url }}" alt="Postgresql"></div>
+    <div class="logos"><img src="{{ '/assets/img/ubuntu.png' | relative_url }}" alt="Ubuntu"></div>
+    <div class="logos"><img src="{{ '/assets/img/python.jpeg' | relative_url }}" alt="Python"></div>
+    <div class="logos"><img src="{{ '/assets/img/mysql.png' | relative_url }}" alt="Mysql"></div>
+    <div class="logos"><img src="{{ '/assets/img/github.jpeg' | relative_url }}" alt="Github"></div>
+    <div class="logos"><img src="{{ '/assets/img/docker.svg' | relative_url }}" alt="Docker"></div>
   </div>
 </section>
 
